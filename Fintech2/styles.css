@@ -1,0 +1,119 @@
+body {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(195, 238, 5);
+    
+}
+
+
+input {
+    font-size: large;
+    background-color:  rgb(195, 238, 5);
+    border-top:  rgb(195, 238, 5);
+    border-left: rgb(195, 238, 5);
+    border-right: rgb(195, 238, 5);
+    border-color:   rgb(132, 0, 255);
+   
+
+    
+}
+form {
+   color: rgb(132, 0, 255); 
+   position: absolute;
+   top: 58.5%;
+   left: 53%;
+   transform: translateY(-50%) translateX(-50%)
+}
+
+.button {
+   
+    color: rgb(132, 0, 255); 
+    font-size: large;
+    background-color: rgb(208, 255, 0) ;
+    border-color:  rgb(132, 0, 255);
+    border-width: 3px;
+    height: 40px;
+    width: 150px;
+    position: absolute;
+    top: 75%;
+    left: 40%;
+    transform: translateY(-50%) translateX(-50%)
+    
+    
+   
+}
+h1 {
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%)
+
+}
+h2 {
+    position: absolute;
+    top: 28.5%;
+    left: 43%;
+    transform: translateY(-50%) translateX(-50%)
+
+}
+h3  {
+    position: absolute;
+    top: 41.9%;
+    left: 43%;
+    transform: translateY(-50%) translateX(-50%)
+
+}
+h4  {
+    position: absolute;
+    top: 54.3%;
+    left: 43%;
+    transform: translateY(-50%) translateX(-50%)
+}
+
+footer {
+    position: absolute;
+    top: 83%;
+    left: 52%;
+    transform: translateY(-50%) translateX(-50%)
+
+}
+.table1 {
+    background-color:  rgb(104, 5, 197);
+    border: none;
+    width: 1000%;
+    height: 10%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translateY(-50%) translateX(-50%)
+}
+.table2 {
+    background-color:   rgb(143, 32, 248);
+    border: none;
+    width: 1000%;
+    height: 10%;
+    position: absolute;
+    top: 10.7%;
+    left: 0%;
+    transform: translateY(-50%) translateX(-50%)
+}
+.table3 {
+    background-color:  rgb(104, 5, 197);
+    border: none;
+    width: 1000%;
+    height: 10%;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    transform: translateY(-50%) translateX(-50%)
+}
+.table4 {
+    background-color:   rgb(143, 32, 248);
+    border: none;
+    width: 1000%;
+    height: 8%;
+    position: absolute;
+    top: 90.4%;
+    left: 0%;
+    transform: translateY(-50%) translateX(-50%)
+}
